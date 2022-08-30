@@ -1,0 +1,14 @@
+{
+  "name": "cypress-ui-playground",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "cypress run",
+    "open": "cypress open"
+  },
+  "author": "Anand Sundramurthy",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.4.0"
+  }
+}
